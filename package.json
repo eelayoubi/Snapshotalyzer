@@ -1,0 +1,30 @@
+{
+  "name": "snapshatlyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eelayoubi/snapshatlyzer.git"
+  },
+  "keywords": [
+    "awscli",
+    "ec2",
+    "volumes",
+    "snapshots",
+    "manage"
+  ],
+  "author": "eelayoubi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eelayoubi/snapshatlyzer/issues"
+  },
+  "homepage": "https://github.com/eelayoubi/snapshatlyzer#readme",
+  "dependencies": {
+    "aws-sdk": "^2.658.0",
+    "commander": "^5.0.0"
+  }
+}
